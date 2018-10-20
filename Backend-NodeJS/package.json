@@ -1,0 +1,21 @@
+{
+  "name": "ChallengeX-BackEnd",
+  "version": "0.0.1",
+  "description": "ChallengeX-BackEnd",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "simitii",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.9",
+    "multer": "^1.2.1",
+    "socket.io": "^1.7.2",
+    "socket.io-cookie-parser": "^1.0.0",
+    "xmlhttprequest-ssl": "^1.5.3"
+  }
+}

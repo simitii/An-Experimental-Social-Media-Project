@@ -1,0 +1,17 @@
+1 - success 
+2 - invalid username 
+3 - invalid password
+4 - wrong password
+5 - invalid name please check it again. it mustn't include any punctuation. 
+6 - this name is already exist in db 
+7 - invalid id 
+9 - database error 
+10 - invalid subpath
+11 - invalid name error 
+12 - invalid organizer error
+13 - invalid shortDescription error
+14 - invalid detailedDescription error
+15 - campaign not found
+16 - user already done this
+17 - access denied
+18 - file upload failed.
