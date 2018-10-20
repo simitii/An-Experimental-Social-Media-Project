@@ -9,14 +9,14 @@ The takeaway is we learned a lot about managing software projects and how someth
 We used NodeJS and React Native to develop this project.
 
 Features we implemented:
--User Profile
--Follow/Unfollow
--Add Friend
--Share a post
--Share a comment under a post
--Real Messaging
--Photo/File sharing
--Search user/post ...
-...
+- User Profile
+- Follow/Unfollow
+- Add Friend
+- Share a post
+- Share a comment under a post
+- Real Messaging
+- Photo/File sharing
+- Search user/post 
+- ...
 
 The main idea of the project: This project was planned as a Social Media platform where users can create challenges, join other challenges and share things about it. Main objective was to create place for people with same purpose so that they can contribute to each others progress.
